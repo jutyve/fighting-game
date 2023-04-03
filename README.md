@@ -1,4 +1,5 @@
 # fighting-game
+https://jutyve.github.io/fighting-game/
 this is a fighting game beetween 2 players
   
 the controls are:
